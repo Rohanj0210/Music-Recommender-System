@@ -1,0 +1,19 @@
+age,gender,genre,title,singer,vote,index
+20,1,HipHop,fight the power,A,6,0
+23,1,HipHop,passing by me,A,6.3,1
+25,1,HipHop,grindin,A,9.2,2
+26,1,Jazz,at last,C,6.4,3
+29,1,Jazz,take five,C,9.3,4
+30,1,Jazz,strange fruit,C,8.3,5
+31,1,Classical,mozart,B,4.5,6
+33,1,Classical,beethoven,B,4.1,7
+37,1,Classical,puccini,B,4.2,8
+20,0,Dance,no lie,D,9.1,9
+21,0,Dance,blinding lights,D,9.5,10
+25,0,Dance,just dance,D,9.6,11
+26,0,Acoustic,i got you,E,7.1,12
+27,0,Acoustic,XO,E,7.2,13
+30,0,Acoustic,lucky,E,7.3,14
+31,0,Classical,vivaldi,F,4.3,15
+34,0,Classical,bizet,F,4.4,16
+35,0,Classical,ravel,F,4.5,17
